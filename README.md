@@ -5,6 +5,13 @@ wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/syfqsamvpn/encrypt/ma
 ```
 
 # HOW TO USE
+
+### INSTALL BELOW
+
+```
+apt install make && apt install gcc && apt install shc
+```
+
 ### JUST UPLOAD YOUR SOURCE SCRIPT TO ANY PATH (DEFAULT : /root/samenc)
 ### THEN TYPE 'enc' TO OPEN MENU
 
