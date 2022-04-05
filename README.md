@@ -4,6 +4,11 @@
 wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/syfqsamvpn/encrypt/main/auto.sh" && chmod +x /usr/bin/enc
 ```
 
+## UPDATE SCRIPT
+```
+rm -f /usr/bin/enc && wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/syfqsamvpn/encrypt/main/auto.sh" && chmod +x /usr/bin/enc
+```
+
 # HOW TO USE
 
 ### 1. INSTALL BELOW
